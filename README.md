@@ -17,6 +17,9 @@ Interactive analytics dashboard built using Streamlit, Plotly, Pandas, and NumPy
 - Pandas
 - NumPy
 
+app.py contains the main Google Play Store Analytics Dashboard built using Streamlit and Plotly.
+The training notebook/script includes data preprocessing, model training, and dashboard generation steps used in the project.
+
 ## Run Locally
 
 ```bash
