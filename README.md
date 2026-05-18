@@ -2,6 +2,9 @@
 
 Interactive analytics dashboard built using Streamlit, Plotly, Pandas, and NumPy.
 
+app.py contains the main Google Play Store Analytics Dashboard built using Streamlit and Plotly.
+The training notebook/script includes data preprocessing, model training, and dashboard generation steps used in the project.
+
 ## Features
 - App category analysis
 - Revenue insights
@@ -16,9 +19,6 @@ Interactive analytics dashboard built using Streamlit, Plotly, Pandas, and NumPy
 - Plotly
 - Pandas
 - NumPy
-
-app.py contains the main Google Play Store Analytics Dashboard built using Streamlit and Plotly.
-The training notebook/script includes data preprocessing, model training, and dashboard generation steps used in the project.
 
 ## Run Locally
 
