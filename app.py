@@ -608,22 +608,6 @@ if current_time >= datetime.strptime("16:00", "%H:%M").time() and current_time <
     )
 
     st.plotly_chart(fig6, use_container_width=True)
-
-
-# TRAINING DASHBOARD BUTTON
-
-
-st.markdown("""
-<div class="section-title">
-🎓 Training Dashboard
-</div>
-""", unsafe_allow_html=True)
-
-if st.button("Open Training Dashboard"):
-
-    st.info("⏳ Training Dashboard is loading... Please wait a few seconds.")
-
-    os.system('streamlit run "/Users/macbook/Desktop/dashboard_project/playstore_training.py"')
         
 
 # FOOTER
