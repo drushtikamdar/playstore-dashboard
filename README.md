@@ -21,11 +21,3 @@ Interactive analytics dashboard built using Streamlit, Plotly, Pandas, and NumPy
 
 ```bash
 streamlit run app.py
-
-
-## Developed By
-Drushti Kamdar
-
-Developed By
-
-Drushti Kamdar
